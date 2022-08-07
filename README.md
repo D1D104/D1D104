@@ -2,7 +2,7 @@
 <ul>
 <li>My name is Diego</li>
 <li>I'm majoring in computer engineering</li>
-<li> On the way to be a Full Starck Developer</li>    
+<li> On the way to be a Full Stack Developer</li>    
 </ul>
 <section>
 <p>Experience:<p/>
