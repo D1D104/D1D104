@@ -1,8 +1,7 @@
 <h1>Diego Nogueira Rezende Vilela</h1>
 <ul>
 <li>My name is Diego</li>
-<li>I'm majoring in computer engineering</li>
-<li> On the way to be a Full Stack Developer</li>    
+<li>I'm majoring in computer engineering</li> 
 </ul>
 <section>
 <p>Experience:<p/>
