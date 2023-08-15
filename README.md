@@ -1,4 +1,4 @@
-<h1>Diego Nogueira Rezende Vilela</h1>
+<h1>Diego Vilela</h1>
 <ul>
 <li>Diego</li>
 <li>Computer engineering</li> 
